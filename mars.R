@@ -1,4 +1,4 @@
 #analyze color of Mars
-red <- read.csv("color_spreadsheet.txt")
-mercury <- planets[1,]
 
+planets<- read.csv("color_spreadsheet.csv")
+venus <- planets[2,]
